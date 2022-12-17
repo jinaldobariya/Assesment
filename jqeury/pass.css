@@ -1,0 +1,24 @@
+.sec {
+	position: relative;
+	width: fit-content;
+	display: grid;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, 100%);
+	border: 1px dotted cornflowerblue;
+}
+
+.weak{
+	color:red;
+	font-size: 17px;
+}
+ 
+.good {
+	color: #17da17;
+	font-size: 17px;
+}
+	
+.strong {
+	color: #339333;
+	font-size: 17px;
+}
